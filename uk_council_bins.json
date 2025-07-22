@@ -1,0 +1,1694 @@
+{
+  "councils": [
+    {
+      "name": "Birmingham City Council",
+      "postcodes": ["B"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "Non-recyclable household waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Paper, cardboard, plastic, metal, glass",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (grass, leaves, branches)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Green",
+          "material": "All cooked and uncooked food waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "Leeds City Council",
+      "postcodes": ["LS"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable household waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Paper, cardboard, plastic, metal",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden and food waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "Sheffield City Council",
+      "postcodes": ["S"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable waste (including food waste)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling (Paper & Card)",
+          "color": "Blue",
+          "material": "Paper and cardboard",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling (Containers)",
+          "color": "Brown",
+          "material": "Plastic bottles, cans, and glass",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (subscription service)",
+          "collection_frequency": "every 4 weeks",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Bradford City Council",
+      "postcodes": ["BD"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Green",
+          "material": "Non-recyclable household waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Grey",
+          "material": "Mixed recyclables (paper, plastic, metal, glass)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (grass, leaves, weeds)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Manchester City Council",
+      "postcodes": ["M"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "Non-recyclable waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling (Paper & Card)",
+          "color": "Blue",
+          "material": "Paper and cardboard",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling (Mixed)",
+          "color": "Brown",
+          "material": "Plastic, metal, and glass containers",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden & Food Waste",
+          "color": "Green",
+          "material": "Food scraps and garden waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "Liverpool City Council",
+      "postcodes": ["L"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Purple",
+          "material": "Non-recyclable rubbish and food waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Dry recyclables (glass, cans, paper, card, plastics)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (grass, plant clippings)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Bristol City Council",
+      "postcodes": ["BS"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Household waste that cannot be recycled",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Black (green lid)",
+          "material": "Mixed recyclables (paper, plastic, cans, glass)",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "All food scraps",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (subscription bin)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Leicester City Council",
+      "postcodes": ["LE"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General non-recyclable waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Mixed recycling (paper, card, tins, plastic bottles)",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (seasonal subscription service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Nottingham City Council",
+      "postcodes": ["NG"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Green",
+          "material": "Non-recyclable household waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Grey",
+          "material": "Recyclable waste (paper, cardboard, cans, plastic)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden trimmings and leaves",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Newcastle City Council",
+      "postcodes": ["NE"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General household waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Recycling (paper, cardboard, plastic, cans)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (opt-in service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Coventry City Council",
+      "postcodes": ["CV"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable household rubbish",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Dry recyclables (paper, cardboard, plastics, cans)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden vegetation and grass",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste (collected with garden waste)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Kingston upon Hull City Council",
+      "postcodes": ["HU"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General refuse (landfill waste)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Dry recycling (paper, cardboard, plastic, metal)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (garden organics)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Kirklees Council",
+      "postcodes": ["HD", "WF"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "Household waste that cannot be recycled",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Mixed recycling (paper, cans, plastics, cardboard)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (optional subscription)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Cornwall Council",
+      "postcodes": ["TR", "PL"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Recycling (mixed household recyclables)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste (weekly caddy collection)",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "Buckinghamshire Council",
+      "postcodes": ["HP"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General waste (non-recyclables)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Mixed recycling (plastic, cans, paper, card)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (subscription service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "North Yorkshire Council",
+      "postcodes": ["YO", "DL"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Household refuse that cannot be recycled",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Dry recyclables (glass, plastic, metal, paper, card)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (opt-in bin)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Somerset Council",
+      "postcodes": ["TA", "BA"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General household waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Recyclable materials (plastics, metals, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food scraps and leftovers",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "Cheshire East Council",
+      "postcodes": ["CW", "SK"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General refuse",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Grey",
+          "material": "Mixed recycling (paper, plastic, metal, glass)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden & Food Waste",
+          "color": "Green",
+          "material": "Garden waste and food waste combined",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "Bournemouth, Christchurch and Poole Council",
+      "postcodes": ["BH"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "Non-recyclable household waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Yellow",
+          "material": "Recycling (paper, cans, plastics, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (opt-in service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Brighton & Hove City Council",
+      "postcodes": ["BN"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "General non-recyclable rubbish",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Mixed recycling (cans, plastic, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (charged service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Southampton City Council",
+      "postcodes": ["SO"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Household waste that can't be recycled",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Mixed recycling (paper, plastic, tins, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (subscription bin service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Portsmouth City Council",
+      "postcodes": ["PO"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General waste (non-recyclable)",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Recyclable materials (plastic, tins, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste clippings",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Reading Borough Council",
+      "postcodes": ["RG"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "General household waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Thursday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Red",
+          "material": "Mixed recycling (plastic, metal, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Thursday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (optional service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Milton Keynes City Council",
+      "postcodes": ["MK"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General household rubbish",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Recyclables (plastic packaging, tins, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (optional collection)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Derby City Council",
+      "postcodes": ["DE"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable household waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Mixed recycling (paper, cardboard, plastic, cans)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (grass, leaves, branches)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Oxford City Council",
+      "postcodes": ["OX"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "Residual waste (landfill)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Co-mingled recycling (plastics, metal, paper, card)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "All food waste (separate caddy)",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (optional bin)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Cambridge City Council",
+      "postcodes": ["CB"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable and non-compostable waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Recyclable materials (dry recyclables)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden & Food Waste",
+          "color": "Green",
+          "material": "Combined garden and food waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "City of York Council",
+      "postcodes": ["YO"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General household waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Mixed recycling (plastics, cans, glass, paper)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (seasonal collection)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Peterborough City Council",
+      "postcodes": ["PE"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "Non-recyclable rubbish",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Mixed recycling (paper, cardboard, cans, plastic)",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (optional paid service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Plymouth City Council",
+      "postcodes": ["PL"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Brown",
+          "material": "Household refuse (landfill)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Recyclable waste (plastic, cans, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden cuttings and leaves",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Stoke-on-Trent City Council",
+      "postcodes": ["ST"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "General household rubbish",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Dry recycling (paper, cardboard, plastic, cans)",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden vegetation",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Wolverhampton City Council",
+      "postcodes": ["WV"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable household waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Purple",
+          "material": "Recyclables (plastic, metal, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste bin",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Westminster City Council",
+      "postcodes": ["SW", "W"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General waste (bin bags for non-recyclables)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Mixed recycling (paper, card, cans, plastics)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste (separate caddy collection)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "Dorset Council",
+      "postcodes": ["DT"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General household refuse",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Recyclable waste (paper, cans, plastic, card)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste bin (opt-in)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Durham County Council",
+      "postcodes": ["DH"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "Non-recyclable household waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Mixed recycling (paper, plastic, metals)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste bin (seasonal service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Sunderland City Council",
+      "postcodes": ["SR"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Green",
+          "material": "Household rubbish that can't be recycled",
+          "collection_frequency": "weekly",
+          "collection_day": "Thursday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Brown",
+          "material": "Recycling bin (plastic, metal, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Thursday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (optional green bin service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Glasgow City Council",
+      "postcodes": ["G"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Green",
+          "material": "General waste (landfill bin)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling (Dry Mixed)",
+          "color": "Purple",
+          "material": "Dry mixed recycling (cans, plastics, paper)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling (Glass)",
+          "color": "Blue",
+          "material": "Glass bottles and jars",
+          "collection_frequency": "monthly",
+          "collection_day": "Monday",
+          "collection_week": "every 4 weeks"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "City of Edinburgh Council",
+      "postcodes": ["EH"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "Non-recyclable waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling (Mixed)",
+          "color": "Green",
+          "material": "Mixed recycling (plastics, metals, paper, card)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling (Paper)",
+          "color": "Blue",
+          "material": "Paper and cardboard",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Grey",
+          "material": "Food waste (small caddy)",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste bin (subscription)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Fife Council",
+      "postcodes": ["KY"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "General waste (landfill)",
+          "collection_frequency": "every 3 weeks",
+          "collection_day": "Wednesday",
+          "collection_week": "every third"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Mixed recycling (plastics, metals, paper, card)",
+          "collection_frequency": "every 3 weeks",
+          "collection_day": "Wednesday",
+          "collection_week": "every third"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Grey",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste bin",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Aberdeen City Council",
+      "postcodes": ["AB"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable refuse",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Grey",
+          "material": "Mixed recycling (plastics, metals, paper, card)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste bin",
+          "collection_frequency": "weekly",
+          "collection_day": "Thursday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste (mixed with food in brown bin)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Dundee City Council",
+      "postcodes": ["DD"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Grey",
+          "material": "General waste bin",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Dry recyclables (paper, card, plastics, cans)",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste bin (subscription)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Highland Council",
+      "postcodes": ["IV"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Green",
+          "material": "Household refuse (landfill)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Mixed recycling (plastic, cans, paper, card)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste bin (opt-in garden collection)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "North Lanarkshire Council",
+      "postcodes": ["ML"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General waste bin",
+          "collection_frequency": "every 3 weeks",
+          "collection_day": "Tuesday",
+          "collection_week": "every third"
+        },
+        {
+          "type": "Recycling (Paper & Card)",
+          "color": "Blue",
+          "material": "Paper and cardboard recycling",
+          "collection_frequency": "every 3 weeks",
+          "collection_day": "Tuesday",
+          "collection_week": "every third"
+        },
+        {
+          "type": "Recycling (Plastics & Cans)",
+          "color": "Green",
+          "material": "Plastic bottles, tubs, trays and cans",
+          "collection_frequency": "every 3 weeks",
+          "collection_day": "Tuesday",
+          "collection_week": "every third"
+        },
+        {
+          "type": "Food & Garden Waste",
+          "color": "Brown",
+          "material": "Combined food and garden organics",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        }
+      ]
+    },
+    {
+      "name": "Cardiff Council",
+      "postcodes": ["CF"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable waste (black bag/bin)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Mixed recycling (collected in green bags)",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Monday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste bin (seasonal)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Swansea Council",
+      "postcodes": ["SA"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General residual waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Recycling (pink bags and green box for recyclables)",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste sacks (seasonal service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Newport City Council",
+      "postcodes": ["NP"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable household rubbish",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Green",
+          "material": "Mixed recycling (boxes for paper, plastic, metal)",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Wednesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste bin (optional service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Rhondda Cynon Taf Council",
+      "postcodes": ["CF"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General household waste",
+          "collection_frequency": "weekly",
+          "collection_day": "Thursday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Recycling",
+          "color": "Clear",
+          "material": "Dry recycling (collected in clear bags)",
+          "collection_frequency": "weekly",
+          "collection_day": "Thursday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Thursday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste (sacks or bin)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Friday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Carmarthenshire County Council",
+      "postcodes": ["SA"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General waste (black bags)",
+          "collection_frequency": "every 3 weeks",
+          "collection_day": "Friday",
+          "collection_week": "every third"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Recycling (blue bags for dry recyclables)",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste bin",
+          "collection_frequency": "weekly",
+          "collection_day": "Friday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Green",
+          "material": "Garden waste bin (opt-in service)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Belfast City Council",
+      "postcodes": ["BT"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General waste (non-recyclable, includes some food)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Dry recyclables (paper, cardboard, cans, plastics)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Monday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Garden & Food Waste",
+          "color": "Brown",
+          "material": "Compost bin for garden and food waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Derry City and Strabane District Council",
+      "postcodes": ["BT"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "Non-recyclable waste",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Mixed recycling (dry recyclables)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Tuesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food Waste",
+          "color": "Brown",
+          "material": "Food waste caddy",
+          "collection_frequency": "weekly",
+          "collection_day": "Tuesday",
+          "collection_week": "every"
+        },
+        {
+          "type": "Garden Waste",
+          "color": "Brown",
+          "material": "Garden waste bin",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        }
+      ]
+    },
+    {
+      "name": "Armagh City, Banbridge and Craigavon Borough Council",
+      "postcodes": ["BT"],
+      "bins": [
+        {
+          "type": "General Waste",
+          "color": "Black",
+          "material": "General waste (landfill)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Recycling",
+          "color": "Blue",
+          "material": "Dry recyclables (mixed recycling)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Wednesday",
+          "collection_week": "alternating"
+        },
+        {
+          "type": "Food & Garden Waste",
+          "color": "Brown",
+          "material": "Organic waste (combined food and garden)",
+          "collection_frequency": "fortnightly",
+          "collection_day": "Thursday",
+          "collection_week": "alternating"
+        }
+      ]
+    }
+  ]
+}
