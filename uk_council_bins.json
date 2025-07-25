@@ -7,17 +7,23 @@
       {
         "color": "blue-lid",
         "material": "mixed recyclables (plastic, metal, glass)",
-        "frequency": "weekly"
+        "frequency": "weekly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "green-lid",
         "material": "paper/card",
-        "frequency": "weekly"
+        "frequency": "weekly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "grey-lid",
         "material": "general waste",
-        "frequency": "weekly"
+        "frequency": "weekly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Recycling bin has a removable inner pod for paper/card:contentReference[oaicite:0]{index=0}. Birmingham is transitioning from weekly to alternate-week collections in 2025:contentReference[oaicite:1]{index=1}."
@@ -30,17 +36,23 @@
       {
         "color": "green",
         "material": "mixed dry recyclables (paper, cardboard, metal cans, glass, plastics)",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "black",
         "material": "general waste",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "brown",
         "material": "garden waste",
-        "frequency": "fortnightly (Mar–Nov)"
+        "frequency": "fortnightly (Mar–Nov)", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Extra recycling is collected if left in clear bags beside the green bin:contentReference[oaicite:2]{index=2}. No separate food waste collection (put food in black bin)."
@@ -53,17 +65,23 @@
       {
         "color": "blue",
         "material": "paper and card",
-        "frequency": "every 4 weeks"
+        "frequency": "every 4 weeks", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "brown",
         "material": "glass, cans, plastic bottles",
-        "frequency": "every 4 weeks"
+        "frequency": "every 4 weeks", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "black",
         "material": "general waste",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Recyclables are collected on a 4-week cycle (blue one collection, brown the next, alternating with black bin):contentReference[oaicite:3]{index=3}. Only plastic bottles (no other plastics) go in the brown bin:contentReference[oaicite:4]{index=4}."
@@ -76,22 +94,30 @@
       {
         "color": "blue",
         "material": "paper and cardboard (incl. cartons)",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "brown",
         "material": "plastic, metal and glass containers",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "green",
         "material": "food and garden waste",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "black/grey",
         "material": "general waste",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Paper/card is collected in the blue bin separate from other recyclables:contentReference[oaicite:5]{index=5}. All households have a green bin for organic waste (food can be bagged and placed inside):contentReference[oaicite:6]{index=6}."
@@ -104,17 +130,23 @@
       {
         "color": "grey",
         "material": "mixed recyclables (paper, cardboard, glass, cans, plastic bottles)",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "green",
         "material": "general waste",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "brown",
         "material": "garden waste",
-        "frequency": "every 4 weeks (subscription)"
+        "frequency": "every 4 weeks (subscription)", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "General and recycling bins are emptied on alternating weeks:contentReference[oaicite:7]{index=7}. Garden waste service is optional and collected 12 times per year (once every four weeks):contentReference[oaicite:8]{index=8}."
@@ -127,17 +159,23 @@
       {
         "color": "blue",
         "material": "mixed recyclables (glass, cans, paper, cardboard, plastic bottles)",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "purple",
         "material": "general waste (including food)",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "green",
         "material": "garden waste",
-        "frequency": "fortnightly (subscription)"
+        "frequency": "fortnightly (subscription)", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Plastic tubs, trays, bags, and film are NOT accepted in the blue recycling bin:contentReference[oaicite:9]{index=9}:contentReference[oaicite:10]{index=10}. No separate food waste bin – food must go in the purple bin with general waste:contentReference[oaicite:11]{index=11}."
@@ -150,17 +188,23 @@
       {
         "color": "green",
         "material": "mixed recyclables (paper, cardboard, cans, plastics)",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "grey",
         "material": "general waste",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "brown",
         "material": "garden waste",
-        "frequency": "fortnightly (subscription)"
+        "frequency": "fortnightly (subscription)", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Glass is not collected at kerbside – do NOT put glass in the green recycling bin:contentReference[oaicite:12]{index=12}. Garden waste collection is optional (Clip & Collect service) for a fee:contentReference[oaicite:13]{index=13}. No separate food waste collection (food goes in grey bin)."
@@ -173,17 +217,23 @@
       {
         "color": "brown",
         "material": "mixed recyclables (paper, card, glass, cans, plastic bottles, foil)",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "green",
         "material": "general waste",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "brown (garden)",
         "material": "garden waste",
-        "frequency": "fortnightly (Mar–Nov)"
+        "frequency": "fortnightly (Mar–Nov)", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Households have one green bin (general) and two brown bins (one for recycling, one for garden waste):contentReference[oaicite:14]{index=14}. Garden waste is collected March through November, on the same week as the green bin collection:contentReference[oaicite:15]{index=15}."
@@ -196,17 +246,23 @@
       {
         "color": "blue-lidded",
         "material": "mixed recyclables (paper, cardboard, cans, glass, plastic bottles)",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "green-lidded",
         "material": "general waste",
-        "frequency": "fortnightly"
+        "frequency": "fortnightly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "brown-lidded",
         "material": "garden and food waste",
-        "frequency": "fortnightly (subscription)"
+        "frequency": "fortnightly (subscription)", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Food waste can be put in the brown-lidded bin along with garden waste (using a kitchen caddy):contentReference[oaicite:16]{index=16}. If no brown bin service is subscribed, food should go in the green-lidded general waste bin. Garden bins require an annual permit:contentReference[oaicite:17]{index=17}."
@@ -219,17 +275,23 @@
       {
         "color": "blue-lid",
         "material": "mixed recyclables (paper, card, plastics, metal, glass)",
-        "frequency": "weekly"
+        "frequency": "weekly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "grey",
         "material": "general waste",
-        "frequency": "weekly"
+        "frequency": "weekly", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       },
       {
         "color": "brown",
         "material": "garden waste",
-        "frequency": "fortnightly (subscription)"
+        "frequency": "fortnightly (subscription)", 
+        "accepted_items": ["not specified"],
+        "rejected_items": ["not specified"]
       }
     ],
     "special_rules": "Food waste is collected separately every week via a small food caddy:contentReference[oaicite:18]{index=18}. (Note: From late 2025, Sandwell plans to move to alternate weekly collections for grey and blue-lid bins:contentReference[oaicite:19]{index=19}.)"
